@@ -1,5 +1,6 @@
 install:
 - hugo version
+- hugo version
 before_script:
 - rm -rf public               
 script:
