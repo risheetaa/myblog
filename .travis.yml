@@ -1,0 +1,9 @@
+install:
+- hugo version
+before_script:
+- rm -rf public               
+script:
+- hugo
+branches:
+ only:
+ - master
