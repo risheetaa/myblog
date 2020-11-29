@@ -21,7 +21,7 @@ pygmentsCodeFencesGuessSyntax = true
     info = "Test, Automation, Framework Developer, Expert in Virtualization, Cloud and Networking"
     avatarURL = "images/avatar_2.png"
     #gravatar = "me@risheetaa.com"
-    footerContent = "Happy learning."
+    footerContent = "Happy learning!"
 
     dateFormat = "November 21, 2020"
 
@@ -86,27 +86,27 @@ pygmentsCodeFencesGuessSyntax = true
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/risheetaa/myblog"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/risheetaa/myblog"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/swamybabu"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/swamy-budumuru-02394918/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://medium.com/@swamybabu"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
